@@ -1,0 +1,7 @@
+1. create an issue that installing using 
+
+    npm install react react-dom react-router@pre @react-router/node@pre @react-router/serve@pre
+
+    is downloading older version of react-router. react-router v7 is a peer dependency for these packages
+
+    
