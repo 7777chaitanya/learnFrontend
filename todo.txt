@@ -1,0 +1,40 @@
+* I should create a road map for this project
+
+
+* What state management library will I configure? - I think that it is better to go with Xstate because, 
+  I am already using vite, tailwind, vitest, react-router v7(remix) for this project. If I add more
+  friction on this project, I will lost interest on this project
+
+
+
+* I should finalize what folder structure I will follow
+
+
+
+
+Features list
+
+1. Steup tailwind in project
+
+2. Build a page for the questions. it should be a simple list
+
+3. Setup vitest for this project write tests for the list page
+
+4. configure eslint rules for the project
+
+5. configure ci cd for the project
+
+6. configure lint check on github actions
+
+7. configure performance checks in gihtub actions
+
+
+
+8. Build a question and text editor page and make it work properly for Throttling question
+   with proper tests
+
+9. Add these questions with proper tests
+        1. Debouncing
+        2. Promise polyfill
+
+10. Learn to setup performance and error monitoring for this project
