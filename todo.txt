@@ -3,7 +3,7 @@
 
 * What state management library will I configure? - I think that it is better to go with Xstate because, 
   I am already using vite, tailwind, vitest, react-router v7(remix) for this project. If I add more
-  friction on this project, I will lost interest on this project
+  friction on this project, I will lose interest on this project
 
 
 
@@ -11,6 +11,8 @@
 
 
 
+* LATER: folllow this route config -> hostname/questions/javaScript/:questionName
+ but for now, while practising code, just write the function and add a todo comment to add test cases
 
 Features list
 
