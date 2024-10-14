@@ -5,11 +5,11 @@ export default function Questions() {
     <>
       <h1>Questions</h1>
       <ol>
-        <li>Debouncing</li>
+        <li className="font-black text-sky-400">Debouncing</li>
         <li>Throttling</li>
         <li>Promise Polyfill</li>
         <li>Promise.all Polyfill</li>
-        
+
 
       </ol>
     </>
