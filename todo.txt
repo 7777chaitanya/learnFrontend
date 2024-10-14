@@ -16,11 +16,11 @@
 
 Features list
 
-1. Steup tailwind in project
+1. Setup tailwind in project
 
 2. Build a page for the questions. it should be a simple list and it should redirect users to the questions solving page
 
-4. configure eslint rules for the project
+4. configure eslint rules for the project - this is quite important beacuse configuring eslint would help me write cleaner code
 
 5. configure ci cd for the project
 
@@ -38,3 +38,9 @@ Features list
         2. Promise polyfill
 
 10. Learn to setup performance and error monitoring for this project
+
+11. Write test cases for existing code that I have written
+
+12. redirect from the questions list page to the solutions page. I should complete one full cycle
+
+
