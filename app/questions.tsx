@@ -7,7 +7,10 @@ export default function Questions() {
       <ol>
         <li>Debouncing</li>
         <li>Throttling</li>
-        <li>Promise polyfill</li>
+        <li>Promise Polyfill</li>
+        <li>Promise.all Polyfill</li>
+        
+
       </ol>
     </>
   );
