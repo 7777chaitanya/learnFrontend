@@ -18,9 +18,7 @@ Features list
 
 1. Steup tailwind in project
 
-2. Build a page for the questions. it should be a simple list
-
-3. Setup vitest for this project write tests for the list page
+2. Build a page for the questions. it should be a simple list and it should redirect users to the questions solving page
 
 4. configure eslint rules for the project
 
